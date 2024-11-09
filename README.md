@@ -9,10 +9,10 @@ Thesis: The p-center Problem Under Uncertainty
 + B.Sc. Computer Science – School of Computer Science, Shahid Bahonar University,	Iran
   >GPA: 16/20	2008-2012
 
-Use `git status` to list all new or modified files that haven't yet been committed.
+
 ### Work Experience
-- Teaching Assistance	2020-2024
-University College Dublin	  Dublin, Ireland
+- Teaching Assistance	2020-2024 < br / >
+University College Dublin	  Dublin, Ireland < br / >
 •	Assisted in courses: Machine Learning, Introduction to AI, C++ Programming, Graph Algorithms, Algorithms, Algorithmic Problem Solving, Web App Development, Python Programming, Optimization
 •	Guided 60+ students, led recitations, graded coursework, and provided one-on-one support.
 * Data Analyst	2017-2019
