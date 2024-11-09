@@ -1,5 +1,12 @@
 # Data Scientist
-Technical Skills: Python
+### Skills
+**Complexity & Algorithms:** Approximation Algorithms, NP-hard Problems, Algorithm Design<br>
+**Programming:** Python (Pandas, NumPy, Scikit-learn), C/C++, Java<br>
+**Optimization Software:** CPLEX, Gurobi, GLPK, FICO Xpress<br>
+**Machine Learning:** Deep Learning, Neural Networks, Reinforcement Learning, Decision Trees<br>
+**Big Data:** Hadoop, Spark<br>
+**Tools:** AWS, Docker, Kubernetes, Jupyter<br>
+
 ### Education
 - Ph.D. Computer Science – School of Computer Science, University College Dublin (UCD),	Ireland
   > Focus: Computational Complexity, Combinatorial Optimization, and Machine Learning | Supervisor: Deepak Ajwani	2020-2024
