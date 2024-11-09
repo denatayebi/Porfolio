@@ -11,8 +11,8 @@ Thesis: The p-center Problem Under Uncertainty
 
 
 ### Work Experience
-- Teaching Assistance	2020-2024 < br / >
-University College Dublin	  Dublin, Ireland < br / >
+- Teaching Assistance	2020-2024 <br>
+University College Dublin	  Dublin, Ireland <br/>
 •	Assisted in courses: Machine Learning, Introduction to AI, C++ Programming, Graph Algorithms, Algorithms, Algorithmic Problem Solving, Web App Development, Python Programming, Optimization
 •	Guided 60+ students, led recitations, graded coursework, and provided one-on-one support.
 * Data Analyst	2017-2019
