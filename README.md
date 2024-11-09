@@ -11,16 +11,16 @@ Thesis: The p-center Problem Under Uncertainty
 
 
 ### Work Experience
-- Teaching Assistance	2020-2024 <br>
-University College Dublin	  Dublin, Ireland <br/>
+- Teaching Assistance	 <br>
+University College Dublin	  (2020-2024 -  Dublin, Ireland) <br/>
 •	Assisted in courses: Machine Learning, Introduction to AI, C++ Programming, Graph Algorithms, Algorithms, Algorithmic Problem Solving, Web App Development, Python Programming, Optimization <br/>
 •	Guided 60+ students, led recitations, graded coursework, and provided one-on-one support.<br/>
-* Data Analyst	2017-2019
-Rabinsana Company	Shiraz, Iran<br/>
+* Data Analyst	
+Rabinsana Company	(2017-2019 - Shiraz, Iran) <br/>
 •	Developed predictive models to optimize business operations.<br/>
 •	Utilized data visualization tools to aid strategic decision-making.<br/>
-+ Web Developer & IT Specialist	2012-2017<br/>
-Rabinsana Company	Shiraz, Iran<br/>
++ Web Developer & IT Specialist<br/>
+Rabinsana Company	(2012-2017 - Shiraz, Iran)<br/>
 •	Designed and optimized the company website, enhancing traffic and search engine rankings.
 
 
