@@ -9,6 +9,7 @@ Thesis: The p-center Problem Under Uncertainty
 + B.Sc. Computer Science – School of Computer Science, Shahid Bahonar University,	Iran
   >GPA: 16/20	2008-2012
 
+Use `git status` to list all new or modified files that haven't yet been committed.
 ### Work Experience
 Teaching Assistance	2020-2024
 University College Dublin	  Dublin, Ireland
